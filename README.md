@@ -5,7 +5,7 @@ I found my interest in programming around 2024, and i've learnt new languages, a
 I started with LuaU in 2019, developing and experimenting with making games on Roblox, but I don't consider 2019 as my start to programming.
 
 ### Language Knowledge
-- Luau: Expert
+- LuaU: Expert
 - Python: Intermediate
 - JavaScript: Intermediate
 - C++: Beginner
