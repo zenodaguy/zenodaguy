@@ -12,5 +12,3 @@ I started with LuaU in 2019, developing and experimenting with making games on R
 
 ### Projects
 - *[RConsole](https://github.com/zenodaguy/RConsole)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zenodaguy&theme=dark&show_icons=true&hide_border=true&layout=compact)
