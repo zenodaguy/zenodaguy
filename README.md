@@ -12,3 +12,4 @@ I started with LuaU in 2019, developing and experimenting with making games on R
 
 ### Projects
 - *[RConsole](https://github.com/zenodaguy/RConsole)*
+- *[zLog](https://github.com/zenodaguy/zLog)*
